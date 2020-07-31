@@ -24,7 +24,8 @@ public static void main (String[] args){
  int[] intArray = { 10, 20, 30, 40, 50 };
 
 //⑥
-//配列intArrayの２番目と５番目の要素を出力しています。
+//配列intArrayの２番目と５番目の要素を+で加算した値を出力しています。
+
 System.out.println(intArray[1] + intArray[4]);
 
 }
